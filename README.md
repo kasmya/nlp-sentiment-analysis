@@ -81,6 +81,7 @@ pip install pandas numpy matplotlib seaborn nltk transformers torch tqdm scipy
 - Misclassifications: Some 1-star reviews scored positive by models (sarcasm?).
 
 ## How to Run
+### Notebook
 1. Place `Reviews.csv` in `/Users/kasmyabhatia/Downloads/` or update path.
 2. Open `sentiment_analysis.ipynb` in Jupyter/VSCode.
 3. Run all cells sequentially.
