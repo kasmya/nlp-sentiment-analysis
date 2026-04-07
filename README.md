@@ -86,7 +86,7 @@ pip install pandas numpy matplotlib seaborn nltk transformers torch tqdm scipy
 3. Run all cells sequentially.
 4. View plots inline.
 
-### Streamlit App 🎉 
+### Streamlit App 
 1. `pip install -r requirements_app.txt`
 2. `streamlit run sentiment_app.py`
 3. Open browser: Analyze single reviews or upload CSV interactively!
